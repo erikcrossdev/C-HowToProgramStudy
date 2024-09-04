@@ -58,3 +58,12 @@ C2-chapter1SumAndCout/c2_e2_27/x64/Debug
 C2-chapter1SumAndCout/C2_E2_28/x64/Debug
 C2-chapter1SumAndCout/c2_e2_29/x64/Debug
 C2-chapter1SumAndCout/c2-e2-3-h/x64/Debug
+Chapter3/C3_Avarage/x64/Debug
+*.vsidx
+*.ipch
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+*.db

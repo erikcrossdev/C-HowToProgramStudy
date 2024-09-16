@@ -108,3 +108,8 @@ Chapter6/C6-Ex-6-18/x64/Debug
 Chapter6/C6-Ex-6-19/x64/Debug
 Chapter6/C6-Ex-6-21/x64/Debug
 Chapter6/C6-Ex-6-22/x64/Debug
+Chapter7/ArrayExamplePage254and255/x64/Debug
+*.recipe
+*.ilk
+*.idb
+*.pdb

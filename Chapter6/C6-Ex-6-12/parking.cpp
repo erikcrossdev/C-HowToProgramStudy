@@ -5,12 +5,9 @@ using std::endl;
 using std::size;
 using std::fixed;
 using std::setprecision;
-
-
 using std::setw;
 
 double calculateCharges(double);
-
 
 int main() {
 

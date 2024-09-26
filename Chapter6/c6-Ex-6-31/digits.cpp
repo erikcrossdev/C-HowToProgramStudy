@@ -3,9 +3,6 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-#include <cmath>
-using std::log10;
-using std::abs;
 
 int invertDigits(int);
 

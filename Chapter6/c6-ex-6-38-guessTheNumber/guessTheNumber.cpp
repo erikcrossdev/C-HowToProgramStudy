@@ -2,7 +2,6 @@
 using std::cout;
 using std::cin;
 using std::endl;
-using std::boolalpha;
 #include <cstdlib>
 using std::rand;
 using std::srand;

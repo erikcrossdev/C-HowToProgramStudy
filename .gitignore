@@ -113,3 +113,9 @@ Chapter7/ArrayExamplePage254and255/x64/Debug
 *.ilk
 *.idb
 *.pdb
+Chapter8/Chapter8/x64/Debug/Chapter8.vcxproj.FileListAbsolute.txt
+Chapter8/StringToUpper/x64/Debug/StringToUpper.vcxproj.FileListAbsolute.txt
+Chapter8/ExampleParameterByValue/x64/Debug/ExampleParameterByValue.vcxproj.FileListAbsolute.txt
+Chapter8/CharPointerConst/x64/Debug/CharPointerConst.vcxproj.FileListAbsolute.txt
+Chapter8/ExampleParameterByReferenceWithPointer/x64/Debug/ExampleParameterByReferenceWithPointer.vcxproj.FileListAbsolute.txt
+Chapter8/PointersOperatorsExample/x64/Debug/PointersOperatorsExample.vcxproj.FileListAbsolute.txt

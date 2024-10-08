@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-#include <algorithm>  // For std::copy
 using std::cout;
 using std::endl;
 using std::cin;

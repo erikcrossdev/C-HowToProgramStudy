@@ -8,7 +8,7 @@ using std::strcat;
 using std::strncat;
 
 int main() {
-	char s1[] = "Happy ";
+	char s1[20] = "Happy ";
 	char s2[]= "New Year ";
 	char s3[40]="";
 

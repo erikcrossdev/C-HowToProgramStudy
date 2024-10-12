@@ -14,13 +14,13 @@ int main() {
 	void (*f[3])(int) = { function0, function1, function2 }; //pointer of void(int)
 	int choice;
 
-	cout << "Enter a number between 0 and 2, 3 to end:";
+	cout << "Enter a number between 0 and 2, 3 to end: ";
 	cin >> choice;
 
 	while ((choice>=0)&& (choice <3))
 	{
 		(*f[choice])(choice);
-		cout << "Enter a number between 0, 2, 3 to end";
+		cout << "Enter a number between 0, 2, 3 to end: ";
 		cin >> choice;
 	}
 	cout << "Program execution completed!" << endl;
